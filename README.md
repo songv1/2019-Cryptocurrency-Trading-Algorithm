@@ -30,9 +30,9 @@ Make sure all necessary packages, clients, and software are installed before run
 
 # Screenshots
 
-![BTC Candlestick Chart](/Users/victoriasong/Desktop/Github/Crypto\Trading\Algo\2019/bitoinCandleChart.png )
+![BTC Candlestick Chart](https://github.com/songv1/2019-Cryptocurrency-Trading-Algorithm/blob/master/bitoinCandleChart.png)
 
-![Bitcoin Heikin-Ashi Candlestick Chart](/Users/victoriasong/Desktop/Github/Crypto\Trading\Algo\2019/bitcoinCandleHA.png)
+![Bitcoin Heikin-Ashi Candlestick Chart](https://github.com/songv1/2019-Cryptocurrency-Trading-Algorithm/blob/master/bitcoinCandleHA.png)
 
 # Installation 
 Two different python clients were used for this project. More information about their usages can be found on the respective pages.  
